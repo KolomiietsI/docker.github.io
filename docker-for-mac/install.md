@@ -146,15 +146,19 @@ for Docker for Mac, and how the two products can coexist.
 	  The whale in the top status bar indicates that Docker is running, and accessible from a terminal.
 
 	  ![Whale in menu bar](/docker-for-mac/images/whale-in-menu-bar.png)
-
+	  
+    
     If you just installed the app, you also get a success message with suggested
-    next steps and a link to this documentation. Click the whale (![whale
-    menu](/docker-for-mac/images/whale-x.png){: .inline}) in the status bar to
+    next steps and a link to this documentation. 
+    
+    - In case you've installed docker for the first time you'll have to log in or create a new docker account.
+    	Just click the corresponding button on the splash screen and follow suggested procedure ( i.e. create ID and verify your e-mail ).  
+    - Othewise - click the whale (![whale menu](/docker-for-mac/images/whale-x.png)) in the status bar to
     dismiss this popup.
 
 	  ![Startup information](/docker-for-mac/images/mac-install-success-docker-cloud.png)
 
-3.  Click the whale (![whale menu](/docker-for-mac/images/whale-x.png){: .inline}) to get Preferences and other options.
+3.  Click the whale (![whale menu](/docker-for-mac/images/whale-x.png)) to get Preferences and other options.
 
 	  ![Docker context menu](images/menu.png)
 
